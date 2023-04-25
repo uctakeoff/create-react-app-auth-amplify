@@ -16,7 +16,7 @@ class App extends Component {
         </header>
         <h1>Sample App</h1>
           <p>
-            これはサンプルで作成したページです
+            これはWeb番から修正したページです
           </p>
       </div>
     );
